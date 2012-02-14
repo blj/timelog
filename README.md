@@ -1,12 +1,13 @@
 ## Welcome to Timelog
 
-Timelog is no-fluff, open source, time logging system for individuals in Excel.
+Timelog is no-fluff, open source, time logging system for individuals to keep track of time spent doing tasks in Excel.
 
-Time features:
+Features:
 
 * Simple user interface
-* Customisable
+* It is Excel, you can change it completely
 * Comes with macro to fill in current date and time
+* Multiple projects with many tasks
 
 ## License
 
