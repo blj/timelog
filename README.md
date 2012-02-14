@@ -11,7 +11,7 @@ Features:
 
 ## License
 
-Timelog is released under the WTFPL license. A copy of the WTFPL license can be found in the
+Timelog is released under the [WTFPL](http://sam.zoy.org/wtfpl/) license. A copy of the WTFPL license can be found in the
 LICENSE file.
 
 ## Installation and Setup
